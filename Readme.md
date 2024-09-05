@@ -1,1 +1,0 @@
-#This is recipe to make Dal-Fry and Jeera-rice.
